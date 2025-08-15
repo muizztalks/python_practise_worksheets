@@ -4,3 +4,4 @@ A collection of Python practice worksheets (by Krish Naik) with my personal solu
 Topics Covered till now: 
 - Basic Syntax (basic_syntax.ipynb).
 - Control flow - loops and conditional statements (control_flow.ipynb).
+- Lists and List Comprehensions (list_Assignment.ipynb)
