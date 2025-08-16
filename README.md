@@ -5,3 +5,4 @@ Topics Covered till now:
 - Basic Syntax (basic_syntax.ipynb).
 - Control flow - loops and conditional statements (control_flow.ipynb).
 - Lists and List Comprehensions (list_Assignment.ipynb)
+- Tuples and their nature with some functions
