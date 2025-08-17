@@ -6,3 +6,4 @@ Topics Covered till now:
 2. Control flow - loops and conditional statements (control_flow.ipynb).
 3. Lists and List Comprehensions (list_Assignment.ipynb)
 4. Tuples and their nature with some functions
+5. Dictionaries and dict comprehensions
