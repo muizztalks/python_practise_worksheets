@@ -7,4 +7,4 @@ Topics Covered till now:
 3. Lists and List Comprehensions (list_Assignment.ipynb)
 4. Tuples and their nature with some functions
 5. Dictionaries and dict comprehensions
-6. Functions
+6. Functions (lambda func + map func + filter func etc)
