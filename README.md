@@ -8,4 +8,5 @@ Topics Covered till now:
 4. Tuples and their nature with some functions
 5. Dictionaries and dict comprehensions
 6. Functions (positional + keyword arguments)
-7. Functions (lambda + map + filter func)
+7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
+8. 
