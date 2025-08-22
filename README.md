@@ -9,4 +9,4 @@ Topics Covered till now:
 5. Dictionaries and dict comprehensions
 6. Functions (positional + keyword arguments)
 7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
-8. 
+8. Importing and creating modules in python (libraries like maths, numpy etc)
