@@ -10,7 +10,7 @@ Topics Covered till now:
 6. Functions (positional + keyword arguments)
 7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
 8. Importing and creating modules in python libraries like:
-   ~ maths (sqrt, pi, cos, sin etc mathematical functions)
+   (~ maths (sqrt, pi, cos, sin etc mathematical functions)
    ~ random (gives any random variable using random.randint and random.choice)
    ~ os (for file and directory access)
    ~ shutil (for high level operations on files and collection of files)
@@ -19,5 +19,5 @@ Topics Covered till now:
    ~ csv (to import csv /excel files to work on it)
   ~ datetime (to determine live date and time)
   ~ time (time.sleep(2) used to make the system sleep for 2 seconds)
-  ~ re (regular expression; to recognizing patterns and matching them)
+  ~ re (regular expression; to recognizing patterns and matching them))
 9. Making custom Libraries, modules, packages and subpackages using __init__ .py files
