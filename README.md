@@ -10,7 +10,7 @@ Topics Covered till now:
 6. Functions (positional + keyword arguments)
 7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
 8. Importing and creating modules in python libraries like:
-  >maths (sqrt, pi, cos, sin etc mathematical functions)
+   i. maths (sqrt, pi, cos, sin etc mathematical functions)
   >random (gives any random variable using random.randint and random.choice)
   >os (for file and directory access)
   >shutil (for high level operations on files and collection of files)
