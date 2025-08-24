@@ -21,4 +21,4 @@ Topics Covered till now:
   ~ time (time.sleep(2) used to make the system sleep for 2 seconds)
   ~ re (regular expression; to recognizing patterns and matching them))
 9. Making custom Libraries, modules, packages and subpackages using __init__ .py files
-10. File Handling (Opening txt and binary files in 'read','write','append' and 'w+' mode.
+10. File Handling (Opening txt and binary files in 'read','write','append' and 'w+' mode).
