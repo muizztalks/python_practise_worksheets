@@ -11,4 +11,4 @@ Topics Covered till now:
 7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
 8. Importing and creating modules in python libraries like -> maths, random, os, shutil, json, array, csv, datetime, time, re
 9. Making custom Libraries, modules, packages and subpackages using __init__ .py files
-10. File Handling (Opening txt and binary files in 'read','write','append' and 'w+' mode) + using file.seek() to locate to certain position
+10. File Handling (Opening txt and binary files in 'read','write','append' and 'w+' mode) + using file.seek() to locate to certain position.
