@@ -6,7 +6,7 @@ Topics Covered till now:
 2. Control flow - loops and conditional statements (control_flow.ipynb).
 3. Lists and List Comprehensions (list_Assignment.ipynb)
 4. Tuples and their nature with some functions
-5. Dictionaries and dict comprehensions
+5. Dictionaries and dictionary comprehensions
 6. Functions (positional + keyword arguments)
 7. Functions (lambda + map + filter func + math.ceil() -> to roundoff to nearest larger number)
 8. Importing and creating modules in python libraries like -> maths, random, os, shutil, json, array, csv, datetime, time, re
