@@ -1,4 +1,4 @@
-# python_practise_worksh eets
+# Python Practise Worksheets
 A collection of Python practice worksheets (by Krish Naik) with my personal solutions. This repository documents my journey of mastering Python through consistent daily problem-solving contributions. Each worksheet focuses on different concepts to strengthen both coding and logical thinking. 
 
 Topics Covered till now: 
