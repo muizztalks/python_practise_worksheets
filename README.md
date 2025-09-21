@@ -13,4 +13,4 @@ Topics Covered till now:
 9. Making custom Libraries, modules, packages and subpackages using __init__ .py files
 10. File Handling (Opening txt and binary files in 'read','write','append' and 'w+' mode) + using file.seek() to locate to certain position.
 11. Exception Handling in python with try, except else and finally blocks.
-12. OOP Basic:
+12. OOP Basic: Instance Variables + file operations + inheritance
